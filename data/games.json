@@ -1,0 +1,18 @@
+[
+  {
+    "id_igrice": 1,
+    "naziv": "GTA V",
+    "zanr": "Action",
+    "platforma": "PC",
+    "godina_izdavanja": 2013,
+    "cena_po_danu": 5
+  },
+  {
+    "id_igrice": 2,
+    "naziv": "FIFA 24",
+    "zanr": "Sports",
+    "platforma": "PS5",
+    "godina_izdavanja": 2023,
+    "cena_po_danu": 7
+  }
+]

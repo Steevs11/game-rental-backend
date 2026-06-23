@@ -1,0 +1,72 @@
+[
+  {
+    "id_iznajmljivanja": 1,
+    "id_igrice": 1,
+    "id_korisnika": 1,
+    "datum_preuzimanja": "2026-06-20",
+    "planirani_datum_vracanja": "2026-06-25",
+    "stvarni_datum_vracanja": "2026-06-25",
+    "ukupna_cena": 25,
+    "ocena": 5
+  },
+  {
+    "id_iznajmljivanja": 2,
+    "id_igrice": 1,
+    "id_korisnika": 1,
+    "datum_preuzimanja": "2026-06-20",
+    "planirani_datum_vracanja": "2026-06-25",
+    "stvarni_datum_vracanja": "2026-06-25",
+    "ukupna_cena": 25,
+    "ocena": 5
+  },
+  {
+    "id_iznajmljivanja": 3,
+    "id_igrice": 2,
+    "id_korisnika": 1,
+    "datum_preuzimanja": "2026-06-18",
+    "planirani_datum_vracanja": "2026-06-21",
+    "stvarni_datum_vracanja": "2026-06-24",
+    "ukupna_cena": 42,
+    "ocena": 4
+  },
+  {
+    "id_iznajmljivanja": 4,
+    "id_igrice": 2,
+    "id_korisnika": 1,
+    "datum_preuzimanja": "2026-06-18",
+    "planirani_datum_vracanja": "2026-06-21",
+    "stvarni_datum_vracanja": null,
+    "ukupna_cena": 21,
+    "ocena": null
+  },
+  {
+    "id_iznajmljivanja": 5,
+    "id_igrice": 1,
+    "id_korisnika": 999,
+    "datum_preuzimanja": "2026-06-20",
+    "planirani_datum_vracanja": "2026-06-25",
+    "stvarni_datum_vracanja": null,
+    "ukupna_cena": 25,
+    "ocena": null
+  },
+  {
+    "id_iznajmljivanja": 6,
+    "id_igrice": 2,
+    "id_korisnika": 1,
+    "datum_preuzimanja": "2026-06-18",
+    "planirani_datum_vracanja": "2026-06-21",
+    "stvarni_datum_vracanja": null,
+    "ukupna_cena": 21,
+    "ocena": null
+  },
+  {
+    "id_iznajmljivanja": 7,
+    "id_igrice": 1,
+    "id_korisnika": 1,
+    "datum_preuzimanja": "2026-06-20",
+    "planirani_datum_vracanja": "2026-06-25",
+    "stvarni_datum_vracanja": null,
+    "ukupna_cena": 25,
+    "ocena": null
+  }
+]

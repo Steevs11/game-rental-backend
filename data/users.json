@@ -1,0 +1,16 @@
+[
+  {
+    "id_korisnika": 1,
+    "ime": "Marko",
+    "prezime": "Markovic",
+    "email": "marko@gmail.com",
+    "telefon": "061123456"
+  },
+  {
+    "id_korisnika": 999,
+    "ime": "Marko",
+    "prezime": "Markovic",
+    "email": "marko@gmail.com",
+    "telefon": "060123456"
+  }
+]
