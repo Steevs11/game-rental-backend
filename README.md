@@ -1,4 +1,4 @@
-# 🎮 Projekat2IST – Game Rental Backend
+# 🎮 Game Rental Backend
 
 Backend aplikacija za iznajmljivanje igrica napravljena u Node.js koristeći Express.
 
